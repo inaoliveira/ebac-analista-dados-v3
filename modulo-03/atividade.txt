@@ -1,0 +1,7 @@
+Atividade do Módulo 03 - Git e Versionamento
+
+Neste módulo, realizei as seguintes tarefas:
+1. Resolução do Quiz sobre comandos Git (add, commit, push, merge).
+2. Configuração e organização do repositório ebac-analista-dados-v3.
+3. Centralização da documentação no README.md da raiz.
+4. Prática de versionamento via linha de comando (WSL) e GitHub Desktop.
